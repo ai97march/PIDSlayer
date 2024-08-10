@@ -1,2 +1,2 @@
 # PIDSlayer
-An application for killing multiple Process IDs (PIDs) based on their respective port numbers.
+An application for killing multiple Process IDs (PIDs) based on their respective port numbers. This tool is useful for terminating PIDs associated with specific port numbers, especially when multiple projects are running inside an IDE (such as STS, Eclipse, etc.). It can be particularly helpful when the IDE is closed accidentally or in unforeseen circumstances where it is necessary to forcefully close the IDE.
